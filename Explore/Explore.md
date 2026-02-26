@@ -1,7 +1,8 @@
 # CYOA Zombie Invasion
 ---
-You wake up in your home an hear cars honking and no one is home
-## [Explore](Explore/Explore.md)
-## [Observe](Observe/Observe.md)
+You see a humanoid creature walking. Do you approach it?
+## [Away](Away.md)
+## [Aproach](Aproach.md)
 ---
 [Start Over](home.md)
+
