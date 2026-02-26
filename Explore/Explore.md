@@ -1,8 +1,9 @@
 # CYOA Zombie Invasion
 ---
 You see a humanoid creature walking. Do you approach it?
-## [Away](Away/Away.md)
+## [Link to my_file.md](away.md)
 ## [Aproach](Aproach/Aproach.md)
 ---
 [Start Over](home.md)
+
 
