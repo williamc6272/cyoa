@@ -1,5 +1,5 @@
 # CYOA Zombie invasion
 ## Home
 ---
-What kind of food are you hungry for?
+You dream, but hear cars honking.
 ## [wakeup](https://github.com/williamc6272/cyoa/blob/main/wakeup.md)
